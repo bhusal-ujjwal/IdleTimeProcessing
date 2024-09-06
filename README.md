@@ -1,7 +1,7 @@
-**Used C++ programming language and Qt GUI toolkit.
-Application able to process user-define tasks in IDLE timer event handler.** 
+# Idle Time Processing
+Idle Time Processing using QT GUI toolkit and C++. Application able to process user-define tasks in IDLE timer event handler.
 
-**The application have the following features:**
+## The application have the following features:
 choice of one time-consuming algorithm (PI number calculation, prime number calculation, etc.)
 provide input fields for initial algorithm parameters (for example, the amount of PI digits)
 provide at least three buttons:
